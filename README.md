@@ -61,6 +61,12 @@ pip install -r requirements.txt
 uvicorn app.main:app --reload --port 8000
 ```
 
+if this gives error do these steps
+python3.13 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+uvicorn app.main:app --reload --port 8000
+
 The API is now live at `http://localhost:8000`. It creates `finance.db`
 (SQLite) automatically on first run — no database setup needed.
 
