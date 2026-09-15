@@ -1,0 +1,9 @@
+date,description,category,amount,type
+2026-09-01,Paycheck,Income,2500.00,income
+2026-09-02,Chipotle,Food,14.50,expense
+2026-09-03,CTA,Transportation,5.00,expense
+2026-09-04,Amazon,Shopping,42.99,expense
+2026-09-05,Rent,Housing,900.00,expense
+2026-09-08,Whole Foods,Food,63.20,expense
+2026-09-10,Amazon,Shopping,28.40,expense
+2026-09-12,Electric Bill,Utilities,74.10,expense
